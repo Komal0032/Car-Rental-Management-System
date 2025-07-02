@@ -31,12 +31,12 @@ A full stack Java-based internship project that simulates a real-world **car ren
 - **Booking Module**: Book car, return car, view history
 - **Admin Panel**: Manage cars, users, bookings
 
----
+<!---
 
 ## 💻 Screenshots (Optional)
 _Add UI screenshots of home page, admin panel, booking form, etc._
 
----
+--->
 
 ## 📦 How to Run
 
