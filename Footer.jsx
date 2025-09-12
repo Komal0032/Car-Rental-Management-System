@@ -54,11 +54,11 @@ const Footer = () => {
             <ul>
               <li>
                 <FaMapMarkerAlt className="contact-icon" />
-                <span>123 Drive Street, Auto City, AC 12345</span>
+                <span>123 Drive Street, Nashik City, AC 12345</span>
               </li>
               <li>
                 <FaPhone className="contact-icon" />
-                <span>(123) 456-7890</span>
+                <span>(1123227890</span>
               </li>
               <li>
                 <FaEnvelope className="contact-icon" />
@@ -86,5 +86,6 @@ const Footer = () => {
     </footer>
   );
 };
+
 
 export default Footer;
