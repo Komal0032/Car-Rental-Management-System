@@ -1,0 +1,49 @@
+.admin-dashboard-container {
+  padding: 20px;
+}
+
+.tabs {
+  margin-bottom: 20px;
+}
+
+.tabs button {
+  padding: 10px 20px;
+  margin-right: 10px;
+  border: none;
+  border-bottom: 3px solid transparent;
+  background-color: #f0f0f0;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.tabs button.active {
+  border-bottom: 3px solid #007bff;
+  background-color: #e8f0ff;
+}
+
+.tab-content {
+  margin-top: 20px;
+}
+
+.table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.table th, .table td {
+  padding: 10px;
+  text-align: center;
+  border: 1px solid #ddd;
+}
+
+.approve-btn {
+  padding: 6px 10px;
+  background-color: #28a745;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+.approve-btn:hover {
+  background-color: #218838;
+}
